@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.box{
+	position:absolute;
+     left:150px;
+	 top:150px;
+	padding-left:100px;
+	padding-top:100px;
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+	color:purple;
+	
+}
